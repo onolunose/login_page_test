@@ -1,0 +1,313 @@
+09/14/2023 10:31:20 AM - TestStatus - ERROR: ### VERIFICATION FAILED: Login Verification Successful
+09/14/2023 10:31:20 AM - TestStatus - INFO: Screenshot save to directory: C:\ecommerce\shopify_job\base\../screenshots/Login Verification Successful.1694680280043.png
+oginTests - INFO: *##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##
+09/14/2023 10:25:32 AM - LoginTests - INFO: test_validLogin started
+09/14/2023 10:25:32 AM - LoginTests - INFO: *##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##*##
+23 10:25:03 AM - Util - INFO: Wait :: '4' seconds for 
+09/14/2023 10:25:09 AM - Util - INFO: Wait :: '4' seconds for 
+09/14/2023 10:25:14 AM - Util - INFO: Wait :: '5' seconds for 
+09/14/2023 10:28:51 AM - Util - INFO: Wait :: '4' seconds for 
+09/14/2023 10:29:22 AM - Util - INFO: Wait :: '4' seconds for 
+09/14/2023 10:29:31 AM - Util - INFO: Wait :: '5' seconds for 
+nt found with locator: (//span[contains(text(), 'Next')])[1] and  locatorType: xpath
+09/14/2023 10:14:10 AM - LoginPage - INFO: Cannot click on the element with locator: (//span[contains(text(), 'Next')])[1] locatorType: xpath
+09/14/2023 10:14:16 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'fully')] and  locatorType: xpath
+09/14/2023 10:14:16 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'fully')] locatorType: xpath
+09/14/2023 10:14:22 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'Add')] and  locatorType: xpath
+09/14/2023 10:14:22 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'Add')] locatorType: xpath
+09/14/2023 10:14:28 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'Amazon')] and  locatorType: xpath
+09/14/2023 10:14:28 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'Amazon')] locatorType: xpath
+09/14/2023 10:14:34 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'Tik')] and  locatorType: xpath
+09/14/2023 10:14:34 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'Tik')] locatorType: xpath
+09/14/2023 10:14:40 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'not')] and  locatorType: xpath
+09/14/2023 10:14:40 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'not')] locatorType: xpath
+09/14/2023 10:14:40 AM - LoginPage - INFO: Element found with locator: //div[4]//span[@class='Polaris-Button__Text_yj3uv'] and  locatorType: xpath
+09/14/2023 10:14:40 AM - LoginPage - INFO: Clicked on element with locator: //div[4]//span[@class='Polaris-Button__Text_yj3uv'] locatorType: xpath
+09/14/2023 10:14:46 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'by me')] and  locatorType: xpath
+09/14/2023 10:14:46 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'by me')] locatorType: xpath
+09/14/2023 10:14:52 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'Sourced')] and  locatorType: xpath
+09/14/2023 10:14:52 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'Sourced')] locatorType: xpath
+09/14/2023 10:14:58 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'Coaching')] and  locatorType: xpath
+09/14/2023 10:14:58 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'Coaching')] locatorType: xpath
+09/14/2023 10:15:04 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'designs')] and  locatorType: xpath
+09/14/2023 10:15:04 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'designs')] locatorType: xpath
+09/14/2023 10:15:10 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'digital')] and  locatorType: xpath
+09/14/2023 10:15:10 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'digital')] locatorType: xpath
+09/14/2023 10:15:17 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'decide')] and  locatorType: xpath
+09/14/2023 10:15:17 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'decide')] locatorType: xpath
+09/14/2023 10:15:17 AM - LoginPage - INFO: Element found with locator: (//span[contains(text(), 'Next')])[1] and  locatorType: xpath
+09/14/2023 10:15:17 AM - LoginPage - INFO: Clicked on element with locator: (//span[contains(text(), 'Next')])[1] locatorType: xpath
+09/14/2023 10:15:21 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+09/14/2023 10:15:31 AM - LoginPage - INFO: Element not appeared on the web page
+09/14/2023 10:15:31 AM - LoginPage - INFO: Cannot click on the element with locator:  locatorType: id
+09/14/2023 10:15:31 AM - LoginPage - INFO: Element found with locator: (// span[contains(text(), 'Next')])[2] and  locatorType: xpath
+09/14/2023 10:15:31 AM - LoginPage - INFO: Cannot click on the element with locator: (// span[contains(text(), 'Next')])[2] locatorType: xpath
+09/14/2023 10:15:37 AM - LoginPage - INFO: Element not found with locator: (//a[contains(text(), 'Log')])[1] and  locatorType: xpath
+09/14/2023 10:15:37 AM - LoginPage - INFO: Cannot click on the element with locator: (//a[contains(text(), 'Log')])[1] locatorType: xpath
+09/14/2023 10:15:43 AM - LoginPage - INFO: Element not found with locator: //input[@id='account_email'] and  locatorType: xpath
+09/14/2023 10:15:43 AM - LoginPage - INFO: Cannot click on the element with locator: //input[@id='account_email'] locatorType: xpath
+09/14/2023 10:15:49 AM - LoginPage - INFO: Element not found with locator: //input[@id='account_email'] and  locatorType: xpath
+09/14/2023 10:15:49 AM - LoginPage - INFO: Cannot send data on the element with locator: //input[@id='account_email'] locatorType: xpath
+09/14/2023 10:15:53 AM - LoginPage - INFO: Waiting for maximum :: 5 :: seconds for element to be clickable
+09/14/2023 10:16:00 AM - LoginPage - INFO: Element not appeared on the web page
+09/14/2023 10:16:00 AM - LoginPage - INFO: Cannot click on the element with locator:  locatorType: id
+09/14/2023 10:16:11 AM - LoginPage - INFO: Element not found with locator: //div[contains(@id,'checkbox')] and  locatorType: xpath
+09/14/2023 10:16:11 AM - LoginPage - INFO: Element not present with locator: //div[contains(@id,'checkbox')] locatorType: xpath
+09/14/2023 10:16:17 AM - LoginPage - INFO: Element not found with locator: //input[@id='account_password'] and  locatorType: xpath
+09/14/2023 10:16:17 AM - LoginPage - INFO: Cannot click on the element with locator: //input[@id='account_password'] locatorType: xpath
+09/14/2023 10:16:23 AM - LoginPage - INFO: Element not found with locator: //input[@id='account_password'] and  locatorType: xpath
+09/14/2023 10:16:23 AM - LoginPage - INFO: Cannot send data on the element with locator: //input[@id='account_password'] locatorType: xpath
+09/14/2023 10:16:23 AM - LoginPage - INFO: Waiting for maximum :: 5 :: seconds for element to be clickable
+09/14/2023 10:16:30 AM - LoginPage - INFO: Element not appeared on the web page
+09/14/2023 10:16:30 AM - LoginPage - INFO: Cannot click on the element with locator:  locatorType: id
+09/14/2023 10:16:30 AM - LoginPage - INFO: Waiting for maximum :: 90 :: seconds for element to be clickable
+09/14/2023 10:18:01 AM - LoginPage - INFO: Element not appeared on the web page
+09/14/2023 10:18:01 AM - LoginPage - INFO: Cannot click on the element with locator:  locatorType: id
+09/14/2023 10:18:08 AM - LoginPage - INFO: Element not found with locator: //span[normalize-space()='Log out'] and  locatorType: xpath
+09/14/2023 10:18:08 AM - LoginPage - INFO: Cannot click on the element with locator: //span[normalize-space()='Log out'] locatorType: xpath
+09/14/2023 10:18:14 AM - LoginPage - INFO: Element not found with locator: //div[1]//li[2]//a[contains(text(), 'Start free trial')] and  locatorType: xpath
+09/14/2023 10:18:14 AM - LoginPage - INFO: Cannot click on the element with locator: //div[1]//li[2]//a[contains(text(), 'Start free trial')] locatorType: xpath
+09/14/2023 10:18:20 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'I知 already selling online or in person')] and  locatorType: xpath
+09/14/2023 10:18:20 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'I知 already selling online or in person')] locatorType: xpath
+09/14/2023 10:18:26 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'just ')] and  locatorType: xpath
+09/14/2023 10:18:26 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'just ')] locatorType: xpath
+09/14/2023 10:18:26 AM - LoginPage - INFO: Element found with locator: (//span[contains(text(), 'Next')])[1] and  locatorType: xpath
+09/14/2023 10:18:26 AM - LoginPage - INFO: Clicked on element with locator: (//span[contains(text(), 'Next')])[1] locatorType: xpath
+09/14/2023 10:18:32 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'fully')] and  locatorType: xpath
+09/14/2023 10:18:32 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'fully')] locatorType: xpath
+09/14/2023 10:18:38 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'Add')] and  locatorType: xpath
+09/14/2023 10:18:38 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'Add')] locatorType: xpath
+09/14/2023 10:18:44 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'Amazon')] and  locatorType: xpath
+09/14/2023 10:18:44 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'Amazon')] locatorType: xpath
+09/14/2023 10:18:50 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'Tik')] and  locatorType: xpath
+09/14/2023 10:18:50 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'Tik')] locatorType: xpath
+09/14/2023 10:18:56 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'not')] and  locatorType: xpath
+09/14/2023 10:18:56 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'not')] locatorType: xpath
+09/14/2023 10:18:56 AM - LoginPage - INFO: Element found with locator: //div[4]//span[@class='Polaris-Button__Text_yj3uv'] and  locatorType: xpath
+09/14/2023 10:18:56 AM - LoginPage - INFO: Cannot click on the element with locator: //div[4]//span[@class='Polaris-Button__Text_yj3uv'] locatorType: xpath
+09/14/2023 10:18:56 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'by me')] and  locatorType: xpath
+09/14/2023 10:18:56 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'by me')] locatorType: xpath
+09/14/2023 10:18:56 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'Sourced')] and  locatorType: xpath
+09/14/2023 10:18:56 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'Sourced')] locatorType: xpath
+09/14/2023 10:18:56 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'Coaching')] and  locatorType: xpath
+09/14/2023 10:18:56 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'Coaching')] locatorType: xpath
+09/14/2023 10:18:56 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'designs')] and  locatorType: xpath
+09/14/2023 10:18:56 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'designs')] locatorType: xpath
+09/14/2023 10:18:56 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'digital')] and  locatorType: xpath
+09/14/2023 10:18:56 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'digital')] locatorType: xpath
+09/14/2023 10:18:56 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'decide')] and  locatorType: xpath
+09/14/2023 10:18:56 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'decide')] locatorType: xpath
+09/14/2023 10:18:56 AM - LoginPage - INFO: Element found with locator: (//span[contains(text(), 'Next')])[1] and  locatorType: xpath
+09/14/2023 10:18:56 AM - LoginPage - INFO: Cannot click on the element with locator: (//span[contains(text(), 'Next')])[1] locatorType: xpath
+09/14/2023 10:19:00 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+09/14/2023 10:19:00 AM - LoginPage - INFO: Element appeared on the web page
+09/14/2023 10:19:00 AM - LoginPage - INFO: Clicked on element with locator:  locatorType: id
+09/14/2023 10:19:00 AM - LoginPage - INFO: Element found with locator: (// span[contains(text(), 'Next')])[2] and  locatorType: xpath
+09/14/2023 10:19:01 AM - LoginPage - INFO: Clicked on element with locator: (// span[contains(text(), 'Next')])[2] locatorType: xpath
+09/14/2023 10:19:02 AM - LoginPage - INFO: Element found with locator: (//a[contains(text(), 'Log')])[1] and  locatorType: xpath
+09/14/2023 10:19:03 AM - LoginPage - INFO: Clicked on element with locator: (//a[contains(text(), 'Log')])[1] locatorType: xpath
+09/14/2023 10:19:03 AM - LoginPage - INFO: Element found with locator: //input[@id='account_email'] and  locatorType: xpath
+09/14/2023 10:19:03 AM - LoginPage - INFO: Clicked on element with locator: //input[@id='account_email'] locatorType: xpath
+09/14/2023 10:19:03 AM - LoginPage - INFO: Element found with locator: //input[@id='account_email'] and  locatorType: xpath
+09/14/2023 10:19:03 AM - LoginPage - INFO: Sent data on element with locator: //input[@id='account_email'] locatorType: xpath
+09/14/2023 10:19:07 AM - LoginPage - INFO: Waiting for maximum :: 5 :: seconds for element to be clickable
+09/14/2023 10:19:11 AM - LoginPage - INFO: Element appeared on the web page
+09/14/2023 10:19:11 AM - LoginPage - INFO: Clicked on element with locator:  locatorType: id
+09/14/2023 10:19:22 AM - LoginPage - INFO: Element not found with locator: //div[contains(@id,'checkbox')] and  locatorType: xpath
+09/14/2023 10:19:22 AM - LoginPage - INFO: Element not present with locator: //div[contains(@id,'checkbox')] locatorType: xpath
+09/14/2023 10:19:22 AM - LoginPage - INFO: Element found with locator: //input[@id='account_password'] and  locatorType: xpath
+09/14/2023 10:19:22 AM - LoginPage - INFO: Cannot click on the element with locator: //input[@id='account_password'] locatorType: xpath
+09/14/2023 10:19:22 AM - LoginPage - INFO: Element found with locator: //input[@id='account_password'] and  locatorType: xpath
+09/14/2023 10:19:22 AM - LoginPage - INFO: Sent data on element with locator: //input[@id='account_password'] locatorType: xpath
+09/14/2023 10:19:22 AM - LoginPage - INFO: Waiting for maximum :: 5 :: seconds for element to be clickable
+09/14/2023 10:19:29 AM - LoginPage - INFO: Element not appeared on the web page
+09/14/2023 10:19:29 AM - LoginPage - INFO: Cannot click on the element with locator:  locatorType: id
+09/14/2023 10:19:29 AM - LoginPage - INFO: Waiting for maximum :: 80 :: seconds for element to be clickable
+09/14/2023 10:20:54 AM - LoginPage - INFO: Element not appeared on the web page
+09/14/2023 10:21:07 AM - LoginPage - INFO: Element found with locator: //div[1]//li[2]//a[contains(text(), 'Start free trial')] and  locatorType: xpath
+09/14/2023 10:21:10 AM - LoginPage - INFO: Clicked on element with locator: //div[1]//li[2]//a[contains(text(), 'Start free trial')] locatorType: xpath
+09/14/2023 10:21:10 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'I知 already selling online or in person')] and  locatorType: xpath
+09/14/2023 10:21:10 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'I知 already selling online or in person')] locatorType: xpath
+09/14/2023 10:21:10 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'just ')] and  locatorType: xpath
+09/14/2023 10:21:11 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'just ')] locatorType: xpath
+09/14/2023 10:21:11 AM - LoginPage - INFO: Element found with locator: (//span[contains(text(), 'Next')])[1] and  locatorType: xpath
+09/14/2023 10:21:11 AM - LoginPage - INFO: Clicked on element with locator: (//span[contains(text(), 'Next')])[1] locatorType: xpath
+09/14/2023 10:21:11 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'fully')] and  locatorType: xpath
+09/14/2023 10:21:11 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'fully')] locatorType: xpath
+09/14/2023 10:21:11 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'Add')] and  locatorType: xpath
+09/14/2023 10:21:11 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'Add')] locatorType: xpath
+09/14/2023 10:21:11 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'Amazon')] and  locatorType: xpath
+09/14/2023 10:21:12 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'Amazon')] locatorType: xpath
+09/14/2023 10:21:12 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'Tik')] and  locatorType: xpath
+09/14/2023 10:21:12 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'Tik')] locatorType: xpath
+09/14/2023 10:21:12 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'not')] and  locatorType: xpath
+09/14/2023 10:21:12 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'not')] locatorType: xpath
+09/14/2023 10:21:12 AM - LoginPage - INFO: Element found with locator: //div[4]//span[@class='Polaris-Button__Text_yj3uv'] and  locatorType: xpath
+09/14/2023 10:21:12 AM - LoginPage - INFO: Clicked on element with locator: //div[4]//span[@class='Polaris-Button__Text_yj3uv'] locatorType: xpath
+09/14/2023 10:21:12 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'by me')] and  locatorType: xpath
+09/14/2023 10:21:13 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'by me')] locatorType: xpath
+09/14/2023 10:21:13 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'Sourced')] and  locatorType: xpath
+09/14/2023 10:21:13 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'Sourced')] locatorType: xpath
+09/14/2023 10:21:13 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'Coaching')] and  locatorType: xpath
+09/14/2023 10:21:13 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'Coaching')] locatorType: xpath
+09/14/2023 10:21:13 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'designs')] and  locatorType: xpath
+09/14/2023 10:21:13 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'designs')] locatorType: xpath
+09/14/2023 10:21:13 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'digital')] and  locatorType: xpath
+09/14/2023 10:21:13 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'digital')] locatorType: xpath
+09/14/2023 10:21:13 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'decide')] and  locatorType: xpath
+09/14/2023 10:21:14 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'decide')] locatorType: xpath
+09/14/2023 10:21:14 AM - LoginPage - INFO: Element found with locator: (//span[contains(text(), 'Next')])[1] and  locatorType: xpath
+09/14/2023 10:21:14 AM - LoginPage - INFO: Clicked on element with locator: (//span[contains(text(), 'Next')])[1] locatorType: xpath
+09/14/2023 10:21:18 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+09/14/2023 10:21:18 AM - LoginPage - INFO: Element appeared on the web page
+09/14/2023 10:21:18 AM - LoginPage - INFO: Clicked on element with locator:  locatorType: id
+09/14/2023 10:21:18 AM - LoginPage - INFO: Element found with locator: (// span[contains(text(), 'Next')])[2] and  locatorType: xpath
+09/14/2023 10:21:20 AM - LoginPage - INFO: Clicked on element with locator: (// span[contains(text(), 'Next')])[2] locatorType: xpath
+09/14/2023 10:21:20 AM - LoginPage - INFO: Element found with locator: (//a[contains(text(), 'Log')])[1] and  locatorType: xpath
+09/14/2023 10:21:20 AM - LoginPage - INFO: Clicked on element with locator: (//a[contains(text(), 'Log')])[1] locatorType: xpath
+09/14/2023 10:21:20 AM - LoginPage - INFO: Element found with locator: //input[@id='account_email'] and  locatorType: xpath
+09/14/2023 10:21:20 AM - LoginPage - INFO: Clicked on element with locator: //input[@id='account_email'] locatorType: xpath
+09/14/2023 10:21:20 AM - LoginPage - INFO: Element found with locator: //input[@id='account_email'] and  locatorType: xpath
+09/14/2023 10:21:20 AM - LoginPage - INFO: Sent data on element with locator: //input[@id='account_email'] locatorType: xpath
+09/14/2023 10:21:24 AM - LoginPage - INFO: Waiting for maximum :: 5 :: seconds for element to be clickable
+09/14/2023 10:21:24 AM - LoginPage - INFO: Element appeared on the web page
+09/14/2023 10:21:25 AM - LoginPage - INFO: Clicked on element with locator:  locatorType: id
+09/14/2023 10:21:36 AM - LoginPage - INFO: Element not found with locator: //div[contains(@id,'checkbox')] and  locatorType: xpath
+09/14/2023 10:21:36 AM - LoginPage - INFO: Element not present with locator: //div[contains(@id,'checkbox')] locatorType: xpath
+09/14/2023 10:21:36 AM - LoginPage - INFO: Element found with locator: //input[@id='account_password'] and  locatorType: xpath
+09/14/2023 10:21:36 AM - LoginPage - INFO: Cannot click on the element with locator: //input[@id='account_password'] locatorType: xpath
+09/14/2023 10:21:36 AM - LoginPage - INFO: Element found with locator: //input[@id='account_password'] and  locatorType: xpath
+09/14/2023 10:21:36 AM - LoginPage - INFO: Sent data on element with locator: //input[@id='account_password'] locatorType: xpath
+09/14/2023 10:21:36 AM - LoginPage - INFO: Waiting for maximum :: 5 :: seconds for element to be clickable
+09/14/2023 10:21:43 AM - LoginPage - INFO: Element not appeared on the web page
+09/14/2023 10:21:43 AM - LoginPage - INFO: Cannot click on the element with locator:  locatorType: id
+09/14/2023 10:21:43 AM - LoginPage - INFO: Waiting for maximum :: 90 :: seconds for element to be clickable
+09/14/2023 10:23:14 AM - LoginPage - INFO: Element not appeared on the web page
+09/14/2023 10:23:14 AM - LoginPage - INFO: Cannot click on the element with locator:  locatorType: id
+09/14/2023 10:23:20 AM - LoginPage - INFO: Element not found with locator: //span[normalize-space()='Log out'] and  locatorType: xpath
+09/14/2023 10:23:20 AM - LoginPage - INFO: Cannot click on the element with locator: //span[normalize-space()='Log out'] locatorType: xpath
+09/14/2023 10:23:20 AM - LoginPage - INFO: Waiting for maximum :: 80 :: seconds for element to be clickable
+09/14/2023 10:24:45 AM - LoginPage - INFO: Element not appeared on the web page
+09/14/2023 10:24:56 AM - LoginPage - INFO: Element found with locator: //div[1]//li[2]//a[contains(text(), 'Start free trial')] and  locatorType: xpath
+09/14/2023 10:24:59 AM - LoginPage - INFO: Clicked on element with locator: //div[1]//li[2]//a[contains(text(), 'Start free trial')] locatorType: xpath
+09/14/2023 10:24:59 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'I知 already selling online or in person')] and  locatorType: xpath
+09/14/2023 10:24:59 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'I知 already selling online or in person')] locatorType: xpath
+09/14/2023 10:24:59 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'just ')] and  locatorType: xpath
+09/14/2023 10:24:59 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'just ')] locatorType: xpath
+09/14/2023 10:24:59 AM - LoginPage - INFO: Element found with locator: (//span[contains(text(), 'Next')])[1] and  locatorType: xpath
+09/14/2023 10:25:00 AM - LoginPage - INFO: Clicked on element with locator: (//span[contains(text(), 'Next')])[1] locatorType: xpath
+09/14/2023 10:25:00 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'fully')] and  locatorType: xpath
+09/14/2023 10:25:00 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'fully')] locatorType: xpath
+09/14/2023 10:25:00 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'Add')] and  locatorType: xpath
+09/14/2023 10:25:00 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'Add')] locatorType: xpath
+09/14/2023 10:25:00 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'Amazon')] and  locatorType: xpath
+09/14/2023 10:25:00 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'Amazon')] locatorType: xpath
+09/14/2023 10:25:00 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'Tik')] and  locatorType: xpath
+09/14/2023 10:25:01 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'Tik')] locatorType: xpath
+09/14/2023 10:25:01 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'not')] and  locatorType: xpath
+09/14/2023 10:25:01 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'not')] locatorType: xpath
+09/14/2023 10:25:01 AM - LoginPage - INFO: Element found with locator: //div[4]//span[@class='Polaris-Button__Text_yj3uv'] and  locatorType: xpath
+09/14/2023 10:25:01 AM - LoginPage - INFO: Clicked on element with locator: //div[4]//span[@class='Polaris-Button__Text_yj3uv'] locatorType: xpath
+09/14/2023 10:25:01 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'by me')] and  locatorType: xpath
+09/14/2023 10:25:01 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'by me')] locatorType: xpath
+09/14/2023 10:25:01 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'Sourced')] and  locatorType: xpath
+09/14/2023 10:25:02 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'Sourced')] locatorType: xpath
+09/14/2023 10:25:02 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'Coaching')] and  locatorType: xpath
+09/14/2023 10:25:02 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'Coaching')] locatorType: xpath
+09/14/2023 10:25:02 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'designs')] and  locatorType: xpath
+09/14/2023 10:25:02 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'designs')] locatorType: xpath
+09/14/2023 10:25:02 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'digital')] and  locatorType: xpath
+09/14/2023 10:25:02 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'digital')] locatorType: xpath
+09/14/2023 10:25:02 AM - LoginPage - INFO: Element found with locator: //span[contains(text(), 'decide')] and  locatorType: xpath
+09/14/2023 10:25:03 AM - LoginPage - INFO: Clicked on element with locator: //span[contains(text(), 'decide')] locatorType: xpath
+09/14/2023 10:25:03 AM - LoginPage - INFO: Element found with locator: (//span[contains(text(), 'Next')])[1] and  locatorType: xpath
+09/14/2023 10:25:03 AM - LoginPage - INFO: Clicked on element with locator: (//span[contains(text(), 'Next')])[1] locatorType: xpath
+09/14/2023 10:25:07 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+09/14/2023 10:25:07 AM - LoginPage - INFO: Element appeared on the web page
+09/14/2023 10:25:07 AM - LoginPage - INFO: Clicked on element with locator:  locatorType: id
+09/14/2023 10:25:07 AM - LoginPage - INFO: Element found with locator: (// span[contains(text(), 'Next')])[2] and  locatorType: xpath
+09/14/2023 10:25:08 AM - LoginPage - INFO: Clicked on element with locator: (// span[contains(text(), 'Next')])[2] locatorType: xpath
+09/14/2023 10:25:08 AM - LoginPage - INFO: Element found with locator: (//a[contains(text(), 'Log')])[1] and  locatorType: xpath
+09/14/2023 10:25:09 AM - LoginPage - INFO: Clicked on element with locator: (//a[contains(text(), 'Log')])[1] locatorType: xpath
+09/14/2023 10:25:09 AM - LoginPage - INFO: Element found with locator: //input[@id='account_email'] and  locatorType: xpath
+09/14/2023 10:25:09 AM - LoginPage - INFO: Clicked on element with locator: //input[@id='account_email'] locatorType: xpath
+09/14/2023 10:25:09 AM - LoginPage - INFO: Element found with locator: //input[@id='account_email'] and  locatorType: xpath
+09/14/2023 10:25:09 AM - LoginPage - INFO: Sent data on element with locator: //input[@id='account_email'] locatorType: xpath
+09/14/2023 10:25:13 AM - LoginPage - INFO: Waiting for maximum :: 5 :: seconds for element to be clickable
+09/14/2023 10:25:13 AM - LoginPage - INFO: Element appeared on the web page
+09/14/2023 10:25:14 AM - LoginPage - INFO: Clicked on element with locator:  locatorType: id
+09/14/2023 10:25:25 AM - LoginPage - INFO: Element not found with locator: //div[contains(@id,'checkbox')] and  locatorType: xpath
+09/14/2023 10:25:25 AM - LoginPage - INFO: Element not present with locator: //div[contains(@id,'checkbox')] locatorType: xpath
+09/14/2023 10:25:25 AM - LoginPage - INFO: Element found with locator: //input[@id='account_password'] and  locatorType: xpath
+09/14/2023 10:25:25 AM - LoginPage - INFO: Cannot click on the element with locator: //input[@id='account_password'] locatorType: xpath
+09/14/2023 10:25:25 AM - LoginPage - INFO: Element found with locator: //input[@id='account_password'] and  locatorType: xpath
+09/14/2023 10:25:25 AM - LoginPage - INFO: Sent data on element with locator: //input[@id='account_password'] locatorType: xpath
+09/14/2023 10:25:25 AM - LoginPage - INFO: Waiting for maximum :: 5 :: seconds for element to be clickable
+09/14/2023 10:25:32 AM - LoginPage - INFO: Element not appeared on the web page
+09/14/2023 10:25:32 AM - LoginPage - INFO: Cannot click on the element with locator:  locatorType: id
+09/14/2023 10:25:32 AM - LoginPage - INFO: Waiting for maximum :: 90 :: seconds for element to be clickable
+09/14/2023 10:27:03 AM - LoginPage - INFO: Element not appeared on the web page
+09/14/2023 10:27:03 AM - LoginPage - INFO: Cannot click on the element with locator:  locatorType: id
+09/14/2023 10:27:09 AM - LoginPage - INFO: Element not found with locator: //span[normalize-space()='Log out'] and  locatorType: xpath
+09/14/2023 10:27:09 AM - LoginPage - INFO: Cannot click on the element with locator: //span[normalize-space()='Log out'] locatorType: xpath
+09/14/2023 10:27:15 AM - LoginPage - INFO: Element not found with locator: //div[1]//li[2]//a[contains(text(), 'Start free trial')] and  locatorType: xpath
+09/14/2023 10:27:15 AM - LoginPage - INFO: Cannot click on the element with locator: //div[1]//li[2]//a[contains(text(), 'Start free trial')] locatorType: xpath
+09/14/2023 10:27:21 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'I知 already selling online or in person')] and  locatorType: xpath
+09/14/2023 10:27:21 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'I知 already selling online or in person')] locatorType: xpath
+09/14/2023 10:27:27 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'just ')] and  locatorType: xpath
+09/14/2023 10:27:27 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'just ')] locatorType: xpath
+09/14/2023 10:27:33 AM - LoginPage - INFO: Element not found with locator: (//span[contains(text(), 'Next')])[1] and  locatorType: xpath
+09/14/2023 10:27:33 AM - LoginPage - INFO: Cannot click on the element with locator: (//span[contains(text(), 'Next')])[1] locatorType: xpath
+09/14/2023 10:27:39 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'fully')] and  locatorType: xpath
+09/14/2023 10:27:39 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'fully')] locatorType: xpath
+09/14/2023 10:27:45 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'Add')] and  locatorType: xpath
+09/14/2023 10:27:45 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'Add')] locatorType: xpath
+09/14/2023 10:27:51 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'Amazon')] and  locatorType: xpath
+09/14/2023 10:27:51 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'Amazon')] locatorType: xpath
+09/14/2023 10:27:57 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'Tik')] and  locatorType: xpath
+09/14/2023 10:27:57 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'Tik')] locatorType: xpath
+09/14/2023 10:28:03 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'not')] and  locatorType: xpath
+09/14/2023 10:28:03 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'not')] locatorType: xpath
+09/14/2023 10:28:09 AM - LoginPage - INFO: Element not found with locator: //div[4]//span[@class='Polaris-Button__Text_yj3uv'] and  locatorType: xpath
+09/14/2023 10:28:09 AM - LoginPage - INFO: Cannot click on the element with locator: //div[4]//span[@class='Polaris-Button__Text_yj3uv'] locatorType: xpath
+09/14/2023 10:28:15 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'by me')] and  locatorType: xpath
+09/14/2023 10:28:15 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'by me')] locatorType: xpath
+09/14/2023 10:28:21 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'Sourced')] and  locatorType: xpath
+09/14/2023 10:28:21 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'Sourced')] locatorType: xpath
+09/14/2023 10:28:27 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'Coaching')] and  locatorType: xpath
+09/14/2023 10:28:27 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'Coaching')] locatorType: xpath
+09/14/2023 10:28:33 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'designs')] and  locatorType: xpath
+09/14/2023 10:28:33 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'designs')] locatorType: xpath
+09/14/2023 10:28:39 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'digital')] and  locatorType: xpath
+09/14/2023 10:28:39 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'digital')] locatorType: xpath
+09/14/2023 10:28:45 AM - LoginPage - INFO: Element not found with locator: //span[contains(text(), 'decide')] and  locatorType: xpath
+09/14/2023 10:28:45 AM - LoginPage - INFO: Cannot click on the element with locator: //span[contains(text(), 'decide')] locatorType: xpath
+09/14/2023 10:28:51 AM - LoginPage - INFO: Element not found with locator: (//span[contains(text(), 'Next')])[1] and  locatorType: xpath
+09/14/2023 10:28:51 AM - LoginPage - INFO: Cannot click on the element with locator: (//span[contains(text(), 'Next')])[1] locatorType: xpath
+09/14/2023 10:28:55 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+09/14/2023 10:29:09 AM - LoginPage - INFO: Element not appeared on the web page
+09/14/2023 10:29:09 AM - LoginPage - INFO: Cannot click on the element with locator:  locatorType: id
+09/14/2023 10:29:15 AM - LoginPage - INFO: Element not found with locator: (// span[contains(text(), 'Next')])[2] and  locatorType: xpath
+09/14/2023 10:29:15 AM - LoginPage - INFO: Cannot click on the element with locator: (// span[contains(text(), 'Next')])[2] locatorType: xpath
+09/14/2023 10:29:21 AM - LoginPage - INFO: Element not found with locator: (//a[contains(text(), 'Log')])[1] and  locatorType: xpath
+09/14/2023 10:29:21 AM - LoginPage - INFO: Cannot click on the element with locator: (//a[contains(text(), 'Log')])[1] locatorType: xpath
+09/14/2023 10:29:21 AM - LoginPage - INFO: Element found with locator: //input[@id='account_email'] and  locatorType: xpath
+09/14/2023 10:29:22 AM - LoginPage - INFO: Clicked on element with locator: //input[@id='account_email'] locatorType: xpath
+09/14/2023 10:29:22 AM - LoginPage - INFO: Element found with locator: //input[@id='account_email'] and  locatorType: xpath
+09/14/2023 10:29:22 AM - LoginPage - INFO: Sent data on element with locator: //input[@id='account_email'] locatorType: xpath
+09/14/2023 10:29:26 AM - LoginPage - INFO: Waiting for maximum :: 5 :: seconds for element to be clickable
+09/14/2023 10:29:31 AM - LoginPage - INFO: Element not appeared on the web page
+09/14/2023 10:29:31 AM - LoginPage - INFO: Cannot click on the element with locator:  locatorType: id
+09/14/2023 10:29:42 AM - LoginPage - INFO: Element not found with locator: //div[contains(@id,'checkbox')] and  locatorType: xpath
+09/14/2023 10:29:42 AM - LoginPage - INFO: Element not present with locator: //div[contains(@id,'checkbox')] locatorType: xpath
+09/14/2023 10:29:42 AM - LoginPage - INFO: Element found with locator: //input[@id='account_password'] and  locatorType: xpath
+09/14/2023 10:29:42 AM - LoginPage - INFO: Cannot click on the element with locator: //input[@id='account_password'] locatorType: xpath
+09/14/2023 10:29:42 AM - LoginPage - INFO: Element found with locator: //input[@id='account_password'] and  locatorType: xpath
+09/14/2023 10:29:42 AM - LoginPage - INFO: Sent data on element with locator: //input[@id='account_password'] locatorType: xpath
+09/14/2023 10:29:42 AM - LoginPage - INFO: Waiting for maximum :: 5 :: seconds for element to be clickable
+09/14/2023 10:29:49 AM - LoginPage - INFO: Element not appeared on the web page
+09/14/2023 10:29:49 AM - LoginPage - INFO: Cannot click on the element with locator:  locatorType: id
+09/14/2023 10:29:49 AM - LoginPage - INFO: Waiting for maximum :: 80 :: seconds for element to be clickable
+09/14/2023 10:31:14 AM - LoginPage - INFO: Element not appeared on the web page
+09/14/2023 10:31:20 AM - LoginPage - INFO: Element not found with locator: (//p[contains(text(),'My Store')]) and  locatorType: xpath
+09/14/2023 10:31:20 AM - LoginPage - INFO: Element not present with locator: (//p[contains(text(),'My Store')]) locatorType: xpath
