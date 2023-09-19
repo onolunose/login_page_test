@@ -1,6 +1,7 @@
 # login_page_test
 
 Overview
+
 As part of my project initiative, I am motivated to execute a comprehensive automated testing regimen for the web application located at 'https://wordpress.com/.
 The product owner is 'WordPress’.
 This document delineates the overarching test plan, encapsulating the project's scope, our strategic testing approach, timelines, resource allocations, and anticipated deliverables.
