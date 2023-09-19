@@ -119,6 +119,7 @@ Entry Criteria:
 The team has distilled testable requirements from the provided documentation using the ‘help’ section provided in the webpage.
 All queries stemming from the requirements have been clarified.
 Exit Criteria:
+
 The Test Plan, encompassing the overarching Test Strategy, has received the client's endorsement.
 
 4.	Test Designing:
@@ -134,6 +135,7 @@ Entry Criteria:
 
 The Test Scenarios and Test Cases have been double-checked.
 The application is primed and set for rigorous testing.
+
 Exit Criteria:
 
 Comprehensive Test Case Reports and Defect Logs have been generated, detailing the testing outcomes.
