@@ -12,7 +12,7 @@ class HomePage():
         driver = webdriver.Firefox()
         driver.fullscreen_window()
         driver.get(baseURL)
-        driver.implicitly_wait(10)
+        driver.implicitly_wait(3)
         dd=ActionChains(driver)
 
         _my_store = "(//p[contains(text(),'My Store')])"
@@ -60,9 +60,10 @@ class HomePage():
         _next_button = "//div[4]//span[@class='Polaris-Button__Text_yj3uv']"
         _select_already = "//span[contains(text(), 'I’m already selling online or in person')]"
         _select_starting = "//span[contains(text(), 'just ')]"
+        _remind_me_later = "//a[contains(text(),'Remind')]"
 
         elementByXPath = driver.find_element(By.XPATH, _login_link)
-        time.sleep(4)
+        #time.sleep(2)
 
         elementByXPath.click()
         #
@@ -95,25 +96,25 @@ class HomePage():
         # driver.execute_script("arguments[0].scrollIntoView();", element2)
         element3.click()
         print(eles)
-        time.sleep(5)
+        #time.sleep(5)
 
         driver.find_element(By.XPATH, _online_store).click()
-        time.sleep(4)
+        #time.sleep(4)
         driver.find_element(By.XPATH, _add_buy_button).click()
-        time.sleep(4)
+        #time.sleep(4)
         driver.find_element(By.XPATH, _online_marketplace).click()
-        time.sleep(4)
+        #time.sleep(4)
         driver.find_element(By.XPATH,  _in_person ).click()
-        time.sleep(4)
+        #time.sleep(4)
 
         driver.find_element(By.XPATH,  _social_media ).click()
-        time.sleep(4)
+        #time.sleep(4)
         lop=driver.find_element(By.XPATH,  _not_sure )
         eles45 = lop.text
         # driver.execute_script("arguments[0].scrollIntoView();", element2)
         lop.click()
         print(eles45)
-        time.sleep(4)
+       #time.sleep(4)
 
 
         element34 = driver.find_element(By.XPATH, _next_button)
@@ -161,16 +162,19 @@ class HomePage():
         time.sleep(2)
         driver.find_element(By.XPATH, _login_in_after_password).click()
         time.sleep(4)
-
-        wait = WebDriverWait(driver, timeout=250,
-                             poll_frequency=1,
-                             ignored_exceptions=[NoSuchElementException,
-                                                 ElementNotVisibleException,
-                                                 ElementNotSelectableException])
-        element = wait.until(EC.presence_of_element_located((By.XPATH, _my_store)))
-        element.click()
-        time.sleep(4)
-        driver.find_element(By.XPATH, _log_out).click()
+        driver.find_element(By.XPATH, _remind_me_later).click()
+        time.sleep(2)
+        print("SUCCESSFULLY")
+        #
+        # wait = WebDriverWait(driver, timeout=250,
+        #                      poll_frequency=1,
+        #                      ignored_exceptions=[NoSuchElementException,
+        #                                          ElementNotVisibleException,
+        #                                          ElementNotSelectableException])
+        # element = wait.until(EC.presence_of_element_located((By.XPATH, _my_store)))
+        # element.click()
+        # time.sleep(4)
+        # driver.find_element(By.XPATH, _log_out).click()
 
         driver.quit()
 
