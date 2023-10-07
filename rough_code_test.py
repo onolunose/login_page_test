@@ -160,7 +160,7 @@ class HomePage():
         pass_word.send_keys("abc123ABC")
         time.sleep(2)
         driver.find_element(By.XPATH, _login_in_after_password).click()
-        .sleep(4)
+        time.sleep(4)
 
         wait = WebDriverWait(driver, timeout=250,
                              poll_frequency=1,
@@ -170,9 +170,9 @@ class HomePage():
         element = wait.until(EC.presence_of_element_located((By.XPATH, _my_store)))
         element.click()
         time.sleep(4)
-        river.find_element(By.XPATH, _log_out).click()
+        driver.find_element(By.XPATH, _log_out).click()
 
         driver.quit()
 
-run_tests = omePage()
+run_tests = HomePage()
 run_tests.login_test()
