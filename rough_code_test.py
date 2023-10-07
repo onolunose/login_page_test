@@ -160,7 +160,7 @@ class HomePage():
         pass_word.send_keys("abc123ABC")
         time.sleep(2)
         driver.find_element(By.XPATH, _login_in_after_password).click()
-        time.sleep(4)
+        .sleep(4)
 
         wait = WebDriverWait(driver, timeout=250,
                              poll_frequency=1,
